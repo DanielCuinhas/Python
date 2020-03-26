@@ -2,8 +2,13 @@
 
 This is a comparison between different approaches for a basic sentiment analysis task. It's written in pytorch (1.3.0)
 
-Bidirectional LSTM
+1- Bidirectional LSTM
 
-Word attention
+2- FastText
 
-FastText
+3- Word attention
+
+4- BERT with a feed forward network
+
+5- BERT with as an embedding layer for a GRU
+
