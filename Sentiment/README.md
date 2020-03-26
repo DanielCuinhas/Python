@@ -10,5 +10,5 @@ This is a comparison between different approaches for a basic sentiment analysis
 
 4- BERT with a feed forward network
 
-5- BERT with as an embedding layer for a GRU
+5- BERT as an embedding layer for a GRU
 
