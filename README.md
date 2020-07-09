@@ -1,3 +1,4 @@
+HI!
 This is a collection of notebooks covering the following areas in Natural Language Processing:
 
 1 - Sentiment Analysis --> decide whether a comment is positive or negative
