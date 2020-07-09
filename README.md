@@ -12,4 +12,5 @@ Sequence to Sequence (seq2seq) --> in this case, translation between two languag
 
 Word embeddings (word2vec) --> word vectorisation
 
+The comments and explanations throughout the notebooks are in progress ... (sorry about that)
 
