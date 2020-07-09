@@ -1,16 +1,16 @@
 This is a collection of notebooks covering the following areas in Natural Language Processing:
 
-Sentiment Analysis --> decide whether a comment is positive or negative
+1 - Sentiment Analysis --> decide whether a comment is positive or negative
 
-Language Modeling (LM) --> next word prediction
+2 - Language Modeling (LM) --> next word prediction
 
-Natural Language Inference (NLI) --> determine whether a hypothesis is true, false, or undetermined given a premise
+3 - Natural Language Inference (NLI) --> determine whether a hypothesis is true, false, or undetermined given a premise
 
-Named Entity Recognition (NER) --> locate and classify named entities in unstructured text 
+4 - Named Entity Recognition (NER) --> locate and classify named entities in unstructured text 
 
-Sequence to Sequence (seq2seq) --> in this case, translation between two languages
+5 - Sequence to Sequence (seq2seq) --> in this case, translation between two languages
 
-Word embeddings (word2vec) --> word vectorisation
+6 - Word embeddings (word2vec) --> word vectorisation
 
 The comments and explanations throughout the notebooks are in progress ... (sorry about that)
 
